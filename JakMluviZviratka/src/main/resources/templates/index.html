@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="../static/css/styly.css"
+          th:href="${'css/styly.css'}"/>
+    <link rel="icon" href="../static/images/favicon.png"
+          th:href="${'images/favicon.png'}"/>
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan&display=swap" rel="stylesheet">
+    <title>ukol02</title>
+</head>
+<body>
+
+    <div class="obsah">
+
+
+        <h1 class="nadpis">Jak mluví zvířátka?</h1>
+
+        <div class="sloupec">
+            <div class="obrazek">
+                <img src="../static/images/husa.jpg" alt="husa"
+                     th:src="${image}">
+            </div>
+
+            <div class="tlacitka">
+                <button id="zvuk" onclick="document.getElementById('sound').play()">Přehrát zvuk</button>
+                <button id="next" onclick="location.reload(true)">Další zvířátko</button>
+            </div>
+
+            <audio id="sound" th:src="${sound}"></audio>
+
+            <div class="paticka">
+                <p>© 2020 Jarmila Lényiová</p>
+            </div>
+        </div>
+
+    </div>
+
+
+</body>
+</html>

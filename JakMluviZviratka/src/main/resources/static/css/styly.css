@@ -1,0 +1,79 @@
+
+
+html {box-sizing: border-box; }
+*, ::after ::before {box-sizing: inherit}
+
+body {
+    margin: 0;
+    padding: 0%;
+    background-color: silver;
+    background-size: cover;
+    font-family: 'Baloo Chettan', cursive;
+}
+
+.obsah {
+    margin: 80px auto;
+    background-image: linear-gradient(to top, #135516 0%, #13b725 100%);
+    background-size: cover;
+    max-width: 900px;
+    box-shadow: 0 0 20px black;
+    border-radius: 10px;
+    
+}
+
+
+.nadpis {
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    text-shadow: 0 0 3px #424242;
+    font-size: 40px;
+
+}
+
+.sloupec {
+    max-width: 350px;
+    margin: auto;
+}
+
+.obrazek img {
+    display: block;
+    margin: auto;
+    max-width: 350px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px black;
+
+}
+
+.tlacitka {
+    margin: 50px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tlacitka button {
+    color: black;
+    flex: 0 0 80px;
+    background-color: #003e00;
+    border-radius: 5px;
+    box-shadow: 1px 1px 8px black;
+    border: 1px solid #001d00;
+    font-family: 'Bangers', cursive;
+    font-size: 15px;
+    padding: 5px;
+    transition: box-shadow 0.2s, transform 0.2s;
+}
+
+.tlacitka button:active {
+    box-shadow: 1px 1px 3px black;
+    transform: translate(2px, 2px);
+}
+
+.paticka p {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+
+

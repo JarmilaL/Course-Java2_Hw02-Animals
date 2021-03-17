@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="005adb96-59a9-46c4-a141-2e6cdff1f3b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="2" />
+    <option name="width" value="909" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectId" id="1ptPJy3RhvYWLc6Mx62rVk8ct9M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583450380753" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java-Training\Projects\Java2\Lekce02-Ukol\JakMluviZviratka\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="005adb96-59a9-46c4-a141-2e6cdff1f3b3" name="Default Changelist" comment="" />
+      <created>1583434912073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583434912073</updated>
+      <workItem from="1583434916992" duration="1414000" />
+      <workItem from="1583436818329" duration="13152000" />
+      <workItem from="1615999347894" duration="1162000" />
+    </task>
+    <task id="LOCAL-00001" summary="Nahrani aplikace">
+      <created>1616000803116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616000803116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nahrani aplikace" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nahrani aplikace" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="120" width="1129" height="793" key="CommitChangelistDialog2" timestamp="1616000802565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="390" y="120" width="1129" height="793" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616000802565" />
+    <state width="1878" height="276" key="GridCell.Tab.0.bottom" timestamp="1616000673383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616000673383" />
+    <state width="1878" height="276" key="GridCell.Tab.0.center" timestamp="1616000673382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616000673382" />
+    <state width="1878" height="276" key="GridCell.Tab.0.left" timestamp="1616000673382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616000673382" />
+    <state width="1878" height="276" key="GridCell.Tab.0.right" timestamp="1616000673383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616000673383" />
+    <state width="1878" height="276" key="GridCell.Tab.1.bottom" timestamp="1616000673384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616000673384" />
+    <state width="1878" height="276" key="GridCell.Tab.1.center" timestamp="1616000673383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616000673383" />
+    <state width="1878" height="276" key="GridCell.Tab.1.left" timestamp="1616000673383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616000673383" />
+    <state width="1878" height="276" key="GridCell.Tab.1.right" timestamp="1616000673383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616000673383" />
+    <state x="443" y="96" width="1024" height="840" key="SettingsEditor" timestamp="1616000459090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="443" y="96" width="1024" height="840" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616000459090" />
+  </component>
+</project>
