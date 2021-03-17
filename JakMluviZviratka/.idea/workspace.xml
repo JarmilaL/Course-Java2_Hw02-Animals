@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="005adb96-59a9-46c4-a141-2e6cdff1f3b3" name="Default Changelist" comment="" />
+    <list default="true" id="005adb96-59a9-46c4-a141-2e6cdff1f3b3" name="Default Changelist" comment="Nahrani aplikace">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +44,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -61,6 +64,7 @@
       <workItem from="1583434916992" duration="1414000" />
       <workItem from="1583436818329" duration="13152000" />
       <workItem from="1615999347894" duration="1162000" />
+      <workItem from="1616000976180" duration="390000" />
     </task>
     <task id="LOCAL-00001" summary="Nahrani aplikace">
       <created>1616000803116</created>
@@ -69,21 +73,31 @@
       <option name="project" value="LOCAL" />
       <updated>1616000803116</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Nahrani aplikace">
+      <created>1616001102795</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616001102795</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
     <MESSAGE value="Nahrani aplikace" />
     <option name="LAST_COMMIT_MESSAGE" value="Nahrani aplikace" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="390" y="120" width="1129" height="793" key="CommitChangelistDialog2" timestamp="1616000802565">
+    <state x="390" y="120" width="1129" height="793" key="CommitChangelistDialog2" timestamp="1616001216234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="390" y="120" width="1129" height="793" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616000802565" />
+    <state x="390" y="120" width="1129" height="793" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616001216234" />
     <state width="1878" height="276" key="GridCell.Tab.0.bottom" timestamp="1616000673383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -116,9 +130,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1878" height="276" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616000673383" />
-    <state x="443" y="96" width="1024" height="840" key="SettingsEditor" timestamp="1616000459090">
+    <state x="443" y="96" width="1024" height="840" key="SettingsEditor" timestamp="1616001364904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="443" y="96" width="1024" height="840" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616000459090" />
+    <state x="443" y="96" width="1024" height="840" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616001364904" />
   </component>
 </project>
